@@ -22,7 +22,7 @@ def window():
     screen_height = root.winfo_screenheight()
     
     window_width = 340
-    window_height = 250
+    window_height = 255
     
     x = screen_width - window_width - 20
     y = screen_height - window_height - 60
