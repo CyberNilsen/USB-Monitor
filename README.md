@@ -37,7 +37,7 @@ git clone https://github.com/CyberNilsen/USB-Monitor.git
 cd USB-Monitor
 ```
 Build the project:
-Open the project in Visual Studio, build the solution, and run the application.
+Open the project in Visual Studio, build the solution, and run the application. You need admin permissions to run this program or else it wont work properly.
 
 ---
 
@@ -49,6 +49,13 @@ When a new USB device is inserted, a popup will appear in the bottom-right corne
 If no response is given within the specified timeout period, the USB device will be denied access automatically.
 
 The program can be configured to run in the background at startup, offering seamless security protection.
+
+To run the program yourself you have to run this command inside vscode terminal
+
+```bash
+ pyinstaller --onefile --noconsole --uac-admin --name "USB Monitor" USB_Monitor.py
+```
+Now you go to the dist folder inside of USB-Monitor then you run USB Monitor.exe as admin. Now it should work and to test it all you have to do is connect a USB device and the program should pop up.
 
 ---
 
