@@ -26,7 +26,6 @@ USB Monitor is a **Windows-based utility** designed to enhance security by allow
 - **C# (WPF)** — Main framework for building the application with a modern graphical user interface.
 - **USB Event Handling** — Detects USB events and monitors device connections.
 - **System Management (Windows APIs)** — Manages system resources like USB connections and timeouts.
-- **Microsoft Win32 API** — Registers the app to auto-start on system boot.
 
 ---
 
