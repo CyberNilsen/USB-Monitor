@@ -6,7 +6,7 @@ USB Monitor is a **Windows-based utility** designed to enhance security by allow
 
 > ⚠️ **This project is for educational purposes and authorized use only.**
 
-IMAGE PLACEHOLDER CURRENTLY
+![USB Monitor](https://github.com/user-attachments/assets/9f9edcb2-98e2-4eeb-9c49-4249b210135f)
 
 ---
 
