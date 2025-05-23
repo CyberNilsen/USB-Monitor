@@ -1,5 +1,3 @@
-# Placeholder currently:
-
 # USB Monitor
 
 USB Monitor is a **Windows-based utility** designed to enhance security by allowing you to monitor, manage, and control USB device connections. It prevents unauthorized devices from being accessed by requiring explicit user permission before they can be used. If no action is taken, the device is automatically denied access.
